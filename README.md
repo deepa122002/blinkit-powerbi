@@ -58,9 +58,3 @@ This dashboard was built to empower decision-makers with a visual summary of pro
 - **Category Managers**: To assess popular item types and optimize assortments
 - **Sales Teams**: To target high-performing outlet zones
 - **Product Teams**: To track customer ratings and item visibility
-
----
-
-## 📎 Contact
-
-**Krutideepa Samantaray**
