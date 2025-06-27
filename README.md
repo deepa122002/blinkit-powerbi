@@ -58,3 +58,9 @@ This dashboard was built to empower decision-makers with a visual summary of pro
 - **Category Managers**: To assess popular item types and optimize assortments
 - **Sales Teams**: To target high-performing outlet zones
 - **Product Teams**: To track customer ratings and item visibility
+
+## 🔗 Preview
+
+![blinkit_dashboard_preview](![blinkit_dashboard_preview](https://github.com/user-attachments/assets/5c513d61-6e5a-479a-8575-44dfe0659b5d))
+
+---
